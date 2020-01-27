@@ -1,6 +1,8 @@
 # GraphSim
 
-This is the repo for Learning-based Efficient Graph Similarity Computation via Multi-Scale Convolutional Set Matching (AAAI 2020).
+This is the repo for Learning-based Efficient Graph Similarity Computation via Multi-Scale Convolutional Set Matching (AAAI 2020), and Convolutional Set Matching for Graph Similarity. (NeurIPS 2018 Relational Representation Learning Workshop).
+
+
 
 ## Data and Files
 
